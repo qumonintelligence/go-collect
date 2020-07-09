@@ -1,0 +1,2 @@
+# go-collect
+Collection interface
